@@ -108,9 +108,9 @@ analytics:
 # Site Author
 author:
   name             : "yangguda"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/main_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am lovely zoomic's husbond."
-  location         : "Seoul"
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
